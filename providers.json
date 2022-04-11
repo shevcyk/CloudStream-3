@@ -104,9 +104,9 @@
         "url": "https://entrepeliculasyseries.nu",
         "status": 1
     },
-    "FilmanProvider": {
-        "name": "filman.cc",
-        "url": "https://filman.cc",
+    "VizjerProvider": {
+        "name": "vizjer.pl",
+        "url": "https://vizjer.pl",
         "status": 1
     },
     "FrenchStreamProvider": {
