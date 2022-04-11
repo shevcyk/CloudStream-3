@@ -285,3 +285,7 @@
         "status": 0
     }
 }
+"VizjerProvider": {
+        "name": "Vizjer.pl",
+        "url": "https://vizjer.pl",
+        "status": 1
