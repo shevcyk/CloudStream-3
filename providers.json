@@ -285,3 +285,7 @@
         "status": 0
     }
 }
+"GovodtvProvider": {
+        "name": "govodtv",
+        "url": "https://govod.tv/",
+        "status": 1
