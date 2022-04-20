@@ -284,4 +284,8 @@
         "url": "https://zoro.to",
         "status": 0
     }
-}
+},
+    "VizjerProvider": {
+        "name": "vizjer.pl",
+        "url": "https://vizjer.pl",
+        "status": 1
